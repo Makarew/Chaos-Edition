@@ -1,0 +1,17 @@
+﻿Invert Velocity XXX
+Change character-
+Remove gems-
+Enemy spawn-
+Damage
+Speed cap-
+Space Spring-
+Spawn second character-
+Size change-
+Box Tomb-
+Explosive Box Rain-
+10 Second Red Gem-
+Stop-
+Teleport To Random Checkpoint-
+Move Random Enemy To Player-
+Change Ring Count-
+Halve Players Score-
